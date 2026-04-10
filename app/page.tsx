@@ -15,7 +15,6 @@ import SpaceFooter from '@/components/space/SpaceFooter';
 import ContactForm from '@/components/shared/ContactForm';
 import BackToTop from '@/components/shared/BackToTop';
 import KonamiEasterEgg from '@/components/shared/KonamiEasterEgg';
-import RocketCursor from '@/components/space/RocketCursor';
 import ShootingStars from '@/components/space/ShootingStars';
 import TardisButton from '@/components/shared/TardisButton';
 import BootScreen from '@/components/shared/BootScreen';
@@ -50,7 +49,6 @@ export default function Home() {
     <SpaceLayout>
       <BootScreen />
       <KonamiEasterEgg />
-      <RocketCursor />
       <ShootingStars />
       <BackToTop variant="space" />
       <TardisButton />

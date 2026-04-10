@@ -24,11 +24,11 @@ export default function SpaceShipConsole() {
   const [cmdHistory, setCmdHistory] = useState<string[]>([]);
   const [cmdIdx, setCmdIdx] = useState(-1);
   const inputRef = useRef<HTMLInputElement>(null);
-  const bottomRef = useRef<HTMLDivElement>(null);
+  const outputRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (history.length > 0) {
-      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (history.length > 0 && outputRef.current) {
+      outputRef.current.scrollTop = outputRef.current.scrollHeight;
     }
   }, [history]);
 
@@ -170,6 +170,7 @@ export default function SpaceShipConsole() {
 
         {/* Output area */}
         <div
+          ref={outputRef}
           style={{
             height: 340,
             overflowY: 'auto',
@@ -212,7 +213,6 @@ export default function SpaceShipConsole() {
               ))}
             </div>
           ))}
-          <div ref={bottomRef} />
         </div>
 
         {/* Input row */}
