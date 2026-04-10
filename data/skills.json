@@ -1,0 +1,10 @@
+{
+  "Languages": ["JavaScript", "TypeScript", "Java", "Python", "SQL", "C++", "C#"],
+  "Frontend": ["React.js", "Next.js", "Angular", "Flutter", "TailwindCSS", "GSAP", "Framer Motion", "EJS", "Zod", "Formik"],
+  "Backend": ["Node.js", "Express.js", "Spring Boot", "Flask", "Prisma", "Mongoose", "REST APIs", "JWT", "RBAC"],
+  "Databases": ["MongoDB (DocumentDB)", "PostgreSQL", "Redis", "MySQL", "Supabase", "Firebase"],
+  "DevOps & Tools": ["Docker", "AWS (SES)", "Git", "Vercel", "Postman", "Playwright", "Kafka", "Wix Velo"],
+  "AI & ML": ["OpenAI (Whisper, GPT)", "Langflow", "XGBoost", "EEG Signal Processing"],
+  "Integrations": ["DocuSign API", "SEP Payment Gateway", "Cloudinary", "Howler.js"],
+  "Other": ["Unity Engine", "PyQt5", "Observational Astronomy", "Technical Writing"]
+}

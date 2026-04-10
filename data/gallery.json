@@ -1,0 +1,20 @@
+{
+  "personal": [],
+  "ilike": [
+    { "title": "Rajinikanth films", "type": "cinema", "emoji": "🎬", "src": null, "link": null },
+    { "title": "Dragon Ball", "type": "anime", "emoji": "🐉", "src": null, "link": null },
+    { "title": "Tinkle Comics", "type": "comics", "emoji": "📚", "src": null, "link": null },
+    { "title": "Theoretical Physics", "type": "science", "emoji": "⚛️", "src": null, "link": null },
+    { "title": "Astronomy & Stargazing", "type": "science", "emoji": "🔭", "src": null, "link": null },
+    { "title": "Bhagavad Gita", "type": "spirituality", "emoji": "🪷", "src": null, "link": null },
+    { "title": "Indian Mythology", "type": "spirituality", "emoji": "🕉️", "src": null, "link": null },
+    { "title": "Superhero Comics", "type": "comics", "emoji": "🦸", "src": null, "link": null },
+    { "title": "Binge-worthy Series", "type": "cinema", "emoji": "📺", "src": null, "link": null },
+    { "title": "Gaming", "type": "gaming", "emoji": "🎮", "src": null, "link": null },
+    { "title": "Music", "type": "music", "emoji": "🎵", "src": null, "link": null },
+    { "title": "Astrophotography", "type": "photography", "emoji": "🌌", "src": null, "link": null },
+    { "title": "Sherlock Holmes", "type": "books", "emoji": "🔍", "src": null, "link": null },
+    { "title": "Batman / DC", "type": "comics", "emoji": "🦇", "src": null, "link": null },
+    { "title": "God of War / Kratos", "type": "gaming", "emoji": "⚔️", "src": null, "link": null }
+  ]
+}

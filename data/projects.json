@@ -1,0 +1,161 @@
+{
+  "production": [
+    {
+      "name": "iCover App Links",
+      "tech": "Next.js, Node.js, Express, MongoDB, Redis",
+      "year": "2025",
+      "desc": "Full-stack internal tool with RBAC, 2FA, health monitoring for 100+ endpoints, dark mode UI. Replaced company-wide spreadsheet and bookmark workflows.",
+      "color": "#FFD60A",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "DoMS Nexus Webfolio & AI Chatbot",
+      "tech": "Next.js, GSAP, Python, Cloudinary",
+      "year": "2024",
+      "desc": "Digital placement brochure for Anna University MBA department with GSAP animations. Integrated AI chatbot with custom training for placement queries, achieving 99% data accuracy.",
+      "color": "#30D158",
+      "github": null,
+      "live": "https://domsauconnect.com"
+    },
+    {
+      "name": "IGNITA — Event Platform",
+      "tech": "Next.js, Payment Gateway, QR Check-in",
+      "year": "2024",
+      "desc": "Complete event website and software for a two-day media entrepreneurship conclave at Anna University. Registration, QR check-in, payment gateway for 250+ students.",
+      "color": "#64D2FF",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "YSI Challenge Website",
+      "tech": "Wix, Wix Velo",
+      "year": "2023",
+      "desc": "International STEM competition platform with registration flow and personal dashboards — 2,500+ participants from 10+ countries.",
+      "color": "#FF9F0A",
+      "github": null,
+      "live": "https://www.ysichallenge.com"
+    },
+    {
+      "name": "Sharanya Spots Talent Website",
+      "tech": "Wix Studio, Wix Velo",
+      "year": "2023",
+      "desc": "Business website with real-time slot booking features and payment integration for a casting company.",
+      "color": "#FF375F",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "Space Kidz India Website",
+      "tech": "Wix Studio, Wix Velo",
+      "year": "2023",
+      "desc": "Business website for a nano satellite production and aerospace education company.",
+      "color": "#5E5CE6",
+      "github": null,
+      "live": null
+    }
+  ],
+  "personal": [
+    {
+      "name": "Gasgo UserHub",
+      "tech": "Java, Spring Boot, PostgreSQL, Docker, Kafka",
+      "year": "2025",
+      "desc": "Production-ready microservice platform with RESTful APIs, Swagger documentation, Kafka + Zookeeper for async messaging, Docker Compose deployment.",
+      "color": "#BF5AF2",
+      "github": "https://github.com/krish-1010/springboot-gasgo",
+      "live": null
+    },
+    {
+      "name": "ReviseIt",
+      "tech": "React, Supabase, Whisper AI",
+      "year": "2024",
+      "desc": "Audio-based study platform that converts recordings to structured revision notes.",
+      "color": "#FF375F",
+      "github": null,
+      "live": "https://reviseit.vercel.app"
+    },
+    {
+      "name": "Space Board Game",
+      "tech": "Next.js, PostgreSQL, Docker, GSAP, Framer Motion",
+      "year": "2024",
+      "desc": "Animated browser-based board game with real-time multiplayer and space theme.",
+      "color": "#5E5CE6",
+      "github": "https://github.com/krish-1010/dynamic-board-game",
+      "live": null
+    },
+    {
+      "name": "Whisper AI Backend",
+      "tech": "Python, OpenAI Whisper",
+      "year": "2024",
+      "desc": "German pronunciation evaluator using OpenAI Whisper for audio analysis.",
+      "color": "#AC8E68",
+      "github": "https://github.com/krish-1010/whisper-backend",
+      "live": null
+    },
+    {
+      "name": "Langflow AI Chatbot",
+      "tech": "Next.js 15, TypeScript, Langflow, OpenAI",
+      "year": "2024",
+      "desc": "AI chatbot for Loyola College with Langflow backend and OpenAI integration.",
+      "color": "#30D158",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "Pen-to-Text",
+      "tech": "React.js, OCR",
+      "year": "2024",
+      "desc": "Handwriting to digital text converter using optical character recognition.",
+      "color": "#FFD60A",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "Real-Time Chat App",
+      "tech": "React, Firebase",
+      "year": "2024",
+      "desc": "Real-time messaging application with Firebase backend.",
+      "color": "#FF9F0A",
+      "github": null,
+      "live": null
+    },
+    {
+      "name": "AR Product Preview",
+      "tech": "C#, Unity Engine",
+      "year": "2024",
+      "desc": "Augmented reality product visualization tool built in Unity.",
+      "color": "#64D2FF",
+      "github": "https://github.com/krish-1010/ar-product-preview",
+      "live": null
+    },
+    {
+      "name": "Spotify Clone",
+      "tech": "TypeScript",
+      "year": "2024",
+      "desc": "Spotify UI clone with playback functionality.",
+      "color": "#30D158",
+      "github": "https://github.com/krish-1010/spotify-clone",
+      "live": null
+    },
+    {
+      "name": "Dynamic Event Calendar",
+      "tech": "TypeScript, TailwindCSS",
+      "year": "2024",
+      "desc": "Interactive calendar component with event management.",
+      "color": "#007AFF",
+      "github": null,
+      "live": null
+    }
+  ],
+  "research": [
+    {
+      "name": "EEG Brainwave Research",
+      "tech": "Python, Signal Processing, ML",
+      "year": "2023",
+      "desc": "Research on EEG brainwave data interpretation, exploring use in healthcare and behavioral science. Funded by Loyola College.",
+      "color": "#FF6482",
+      "github": null,
+      "live": null
+    }
+  ]
+}

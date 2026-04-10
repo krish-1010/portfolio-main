@@ -1,0 +1,43 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "company": "iCover India",
+    "period": "2025 to Present",
+    "type": "current",
+    "color": "#34C759",
+    "bullets": [
+      "Built App Links, a full-stack internal tool where teams manage client application links across environments. Next.js frontend, Node.js backend, MongoDB, Redis for caching. Includes role-based access, two-factor auth, and health checks for 100+ endpoints. Replaced the old spreadsheet and browser bookmark system.",
+      "Solved a recurring PDF generation crash. The existing Puppeteer setup would fail when multiple users triggered exports at the same time. Rewrote it using Playwright with a connection pool so sessions don't collide."
+    ]
+  },
+  {
+    "role": "Co-Founder & Developer",
+    "company": "Veloit AI",
+    "period": "2022 to 2024",
+    "type": "cofounded",
+    "color": "#AF52DE",
+    "bullets": [
+      "Co-built a platform that lets non-technical users plug ML models into their apps without writing code. Used pretrained XGBoost models, built the API layer in Flask, the frontend in Flutter, and Firebase for the backend. Handled payments and served 50+ clients."
+    ]
+  },
+  {
+    "role": "CTO / SDE Lead",
+    "company": "Space Kidz India",
+    "period": "2022 to 2024",
+    "type": "internship",
+    "color": "#FF9500",
+    "bullets": [
+      "Built web platforms for international STEM competitions, including the YSI Challenge which had 2,500+ participants from over 10 countries. Also worked on software systems tied to the organization's satellite programs."
+    ]
+  },
+  {
+    "role": "CTO",
+    "company": "Sharanya Spots Talent",
+    "period": "2023 to 2024",
+    "type": "internship",
+    "color": "#FF2D55",
+    "bullets": [
+      "Set up the company's entire tech side from scratch. Built their website with real-time slot booking and payment integration so clients could book directly online."
+    ]
+  }
+]

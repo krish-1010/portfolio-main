@@ -1,0 +1,30 @@
+{
+  "name": "Krishna M",
+  "title": "Software Engineer",
+  "email": "krishna@mkrishna.dev",
+  "phone": "7358368972",
+  "website": "mkrishna.dev",
+  "location": "Chennai, India",
+  "github": "https://github.com/krish-1010",
+  "linkedin": "https://linkedin.com/in/mkrishna10",
+  "resumeUrl": "/krishna-resume.pdf",
+  "bio": "Full Stack Engineer building real-world tech solutions. I write code, mentor students, give guest lectures, and occasionally point telescopes at the sky.",
+  "tagline": "i write code,\nmentor students,\n& point telescopes\nat the sky.",
+  "roles": [
+    "Software Engineer @ iCover India",
+    "Volunteer, Devadas Observatory",
+    "Mentor, Code for Cause"
+  ],
+  "iLove": [
+    "building tools",
+    "mentoring",
+    "guest lectures",
+    "observational astronomy",
+    "you ;)",
+    "Spirituality",
+    "Dragon Ball Z",
+    "Ilayaraja's music",
+    "space",
+    "Movies"
+  ]
+}

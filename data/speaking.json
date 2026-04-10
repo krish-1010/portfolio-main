@@ -1,0 +1,15 @@
+[
+  { "event": "AI in Quality Management", "venue": "Anna University (AU TVS Centre)", "year": "2026", "type": "Guest Lecture", "color": "#007AFF", "photo": null, "link": null },
+  { "event": "Values, Power & Responsibility in the Digital Era", "venue": "Loyola College — AgNite '26", "year": "2026", "type": "Panel Speaker", "color": "#AF52DE", "photo": null, "link": null },
+  { "event": "MERN Stack Workshop", "venue": "SDNB Vaishnav College, Chennai", "year": "2026", "type": "Workshop", "color": "#30D158", "photo": null, "link": null },
+  { "event": "National Space Day — Chief Guest", "venue": "Stella Maris College, Chennai", "year": "2025", "type": "Chief Guest", "color": "#FF3B30", "photo": null, "link": null },
+  { "event": "MERN Projects Judge", "venue": "DG Vaishnav College, Chennai", "year": "2025", "type": "Judge", "color": "#FF9500", "photo": null, "link": null },
+  { "event": "Low Code / No Code", "venue": "Anna University — MBA Dept.", "year": "2024", "type": "Guest Lecture", "color": "#007AFF", "photo": null, "link": null },
+  { "event": "Tech and Business", "venue": "Anna University — MBA Dept.", "year": "2024", "type": "Guest Lecture", "color": "#007AFF", "photo": null, "link": null },
+  { "event": "Webfolio Release Event", "venue": "Anna University — MBA Dept.", "year": "2024", "type": "Developer", "color": "#64D2FF", "photo": null, "link": null },
+  { "event": "Mock Interviews & Placement Training", "venue": "DG Vaishnav College, Chennai", "year": "2024", "type": "Mentor", "color": "#FFCC02", "photo": null, "link": null },
+  { "event": "Teaching Session", "venue": "New Hope and New Life Children Home", "year": "2024", "type": "Volunteer", "color": "#30D158", "photo": null, "link": null },
+  { "event": "Computational Biology", "venue": "IIT Madras — Bioconclave '23", "year": "2023", "type": "Guest Speaker", "color": "#5856D6", "photo": null, "link": null },
+  { "event": "Space Technology Workshop", "venue": "RSR International CBSE School, Sivakasi", "year": "2023", "type": "Workshop", "color": "#30D158", "photo": null, "link": null },
+  { "event": "Cultural Event Judge", "venue": "Omega International School — Jaagiti '23", "year": "2023", "type": "Judge", "color": "#FF9500", "photo": null, "link": null }
+]

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e ':*)",
+      "Bash(npx next:*)",
+      "Bash(Get-Content \"C:\\\\Users\\\\krish\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\E--Dev-portfolio\\\\30c2844a-5dd2-45a2-b45a-15a0376ea490\\\\tasks\\\\bmaxrp474.output\" -Wait -Tail 30)",
+      "Bash(Start-Sleep 2)",
+      "Read(//mnt/c/Users/krish/AppData/Local/Temp/claude/E--Dev-portfolio/30c2844a-5dd2-45a2-b45a-15a0376ea490/tasks/**)",
+      "Read(//tmp/**)",
+      "Bash(npm run:*)",
+      "Bash(curl -s http://localhost:3001/comics)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(Remove-Item -Recurse -Force \"E:/Dev/portfolio/.next\")"
+    ]
+  }
+}
